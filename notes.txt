@@ -1,0 +1,9 @@
+Zig runs code at compile time rather than run time
+Zig does have a compiler that is capable of making inferences and creates variable types created by the compiler itself 
+anything with pub is allowed allowed to imported in other modulees 
+"switch" uses 3 ... while the a range uses 2 .. that because switch cases are inclusive of both numbers 
+for is exclusive of the upper bound
+the difference between return and break is that we have the "break works by returning the value based and exiting code"
+"return" is used to exit a function and return a value making the code more readable and flexible
+compile time is when the code is converted to machine code 
+runtime is is the period when code in the program is actually running
